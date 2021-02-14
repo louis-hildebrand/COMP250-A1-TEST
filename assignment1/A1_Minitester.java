@@ -1,6 +1,8 @@
 package assignment1;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+
 
 class Basket_JamTax implements Runnable{
     @Override
